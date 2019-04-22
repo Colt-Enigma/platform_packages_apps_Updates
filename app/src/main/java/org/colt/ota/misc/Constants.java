@@ -31,7 +31,7 @@ public class Constants {
     public static final long UPDATE_DEFAULT_FREQ = AlarmManager.INTERVAL_HALF_DAY;
     // Build vars
     public static final String CURRENT_DEVICE_NAME = "ro.colt.device";
-    public static final String CURRENT_VERSION = "ro.colt.version";
+    public static final String CURRENT_VERSION = "org.colt.version";
     public static final String OTA_URL = "https://raw.githubusercontent.com/Colt-Enigma/colt_official_devices/c9/%s.json";
     public static final String OTA_VERSION_CODE = "pie";
     // Expressions
