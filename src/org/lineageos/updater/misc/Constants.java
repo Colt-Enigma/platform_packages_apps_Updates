@@ -42,7 +42,7 @@ public final class Constants {
     public static final String PROP_BUILD_VERSION = "ro.modversion";
     public static final String PROP_UPDATER_URI = "colt.updater.uri";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "colt.updater.allow_downgrading";
-    public static final String PROP_VERSION = "ro.coltversion";
+    public static final String PROP_VERSION = "ro.colt.release.version";
     //public static final String PROP_BUILD_VERSION_INCREMENTAL = "ro.build.version.incremental";
 
     public static final String PROP_DEVICE = "ro.colt.device";
